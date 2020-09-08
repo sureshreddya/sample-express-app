@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harisha-v/sample-express-app.git"
+    "url": "git+https://github.com/sureshreddya/sample-express-app.git"
   },
   "keywords": [
     "Express",
@@ -17,9 +17,9 @@
   "author": "7EDGE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harisha-v/sample-express-app/issues"
+    "url": "https://github.com/sureshreddya/sample-express-app/issues"
   },
-  "homepage": "https://github.com/harisha-v/sample-express-app#readme",
+  "homepage": "https://github.com/sureshreddya/sample-express-app#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
